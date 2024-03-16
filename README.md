@@ -1,4 +1,5 @@
 # qemu-corrupter
+![canvddddddas](https://github.com/Hunterrules0-0/qemu-corrupter/assets/95697986/d5d17c4f-a1e1-4503-b519-6afee0c09aac)
 
 
 Ever wanted to blow off some steam. Hated using an OS or just want to destroy a virtual machine. then your in luck
