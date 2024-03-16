@@ -25,7 +25,8 @@ I dont fucking know. most likely not
 # WHERES THE COMPILED VERSION YOU ASSHOLE. I DONT WANT TO SPEND 16 HOURS COMPILING THIS MYSELF JUST GIVE ME THE EXECUTATEABLE
 its in ./qemu/build/qemu-system-i386. 
 
-
+# theres alot of security vurabilitys in this code
+yes.
 
 # how can I compile this myself
 the same way youd compile qemu normally. theres nothing different or no extra steps. Wanted this to be as simple as possiable
